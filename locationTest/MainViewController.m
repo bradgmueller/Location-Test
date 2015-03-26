@@ -83,6 +83,8 @@
     }
 }
 
+// 9:12
+
 - (void)locationManager:(LocationManager *)mgr receivedNewLocation:(CLLocation *)loc
 {
     if (loc) {
