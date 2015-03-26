@@ -39,6 +39,7 @@
 
 @implementation MainViewController
 
+// Added comment 9:05
 // 9:08
 
 - (void)viewDidLoad
@@ -50,6 +51,8 @@
     self.locations = [[NSMutableArray alloc] init];
     
 }
+
+// Added comment 9:06
 
 - (MKMapView *)map
 {
