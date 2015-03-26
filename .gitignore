@@ -1,2 +1,4 @@
 locationTest.xcodeproj/project.xcworkspace/xcuserdata
 locationTest.xcodeproj/project.xcworkspace/xcshareddata
+
+*.xcuserstate
